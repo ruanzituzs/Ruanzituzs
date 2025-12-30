@@ -7,7 +7,7 @@ Apaixonado por tecnologia, IA e criação de soluções que impactam pessoas.
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruanzituzs&theme=tokyonight" />
